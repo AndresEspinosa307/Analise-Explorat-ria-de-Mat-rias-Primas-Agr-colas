@@ -2,10 +2,10 @@
 Este notebook Jupyter (Analise_Exploratoria_de_Matérias_Primas_Agrícolas.ipynb) apresenta uma análise exploratória de dados (EDA) focada na dinâmica dos preços e variações percentuais de diversas matérias-primas agrícolas ao longo do tempo. O objetivo é fornecer insights valiosos para investidores, produtores e formuladores de políticas, explorando tendências, correlações e padrões de volatilidade neste mercado.
 
 **Visão Geral do Projeto**
-A compreensão do mercado de matérias-primas agrícolas é crucial devido à sua volatilidade e impacto em diversas cadeias de valor. Este projeto visa desmistificar essa dinâmica através de uma abordagem de análise de dados, desde o carregamento e limpeza até a visualização de correlações de preços.
+* A compreensão do mercado de matérias-primas agrícolas é crucial devido à sua volatilidade e impacto em diversas cadeias de valor. Este projeto visa desmistificar essa dinâmica através de uma abordagem de análise de dados, desde o carregamento e limpeza até a visualização de correlações de preços.
 
 **Estrutura do Notebook**
-O notebook está organizado nas seguintes seções principais:
+* O notebook está organizado nas seguintes seções principais:
 
 **Configuração do Ambiente e Carregamento de Dados:**
 
